@@ -142,5 +142,5 @@ To receive eslint warnings about missing array dependencies, just like for stand
 [downloads-badge]: https://img.shields.io/npm/dt/use-deep-compare.svg
 [npmtrends]: http://www.npmtrends.com/use-deep-compare
 [license-badge]: https://img.shields.io/npm/l/use-deep-compare.svg
-[license]: https://github.com/sandiiarov/use-deep-compare/blob/master/LICENSE
+[license]: https://github.com/BluMintInc/use-deep-compare/blob/master/LICENSE
 <!-- prettier-ignore-end -->
