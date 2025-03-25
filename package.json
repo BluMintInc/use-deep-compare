@@ -1,12 +1,17 @@
 {
-  "name": "use-deep-compare",
+  "name": "@blumintinc/use-deep-compare",
   "version": "1.4.0",
   "license": "MIT",
   "description": "React hooks, except using deep comparison on the inputs, not reference equality",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BluMintInc/use-deep-compare.git"
+    "url": "git+https://github.com/BluMintInc/use-deep-compare.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/BluMintInc/use-deep-compare#readme",
+  "private": false,
   "scripts": {
     "build": "pika build",
     "tsc": "tsc --noEmit"
