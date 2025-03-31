@@ -14,7 +14,8 @@
   "private": false,
   "scripts": {
     "build": "pika build",
-    "tsc": "tsc --noEmit"
+    "tsc": "tsc --noEmit",
+    "version": "npm run build"
   },
   "babel": {
     "presets": [
