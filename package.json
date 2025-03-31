@@ -1,6 +1,6 @@
 {
   "name": "@blumintinc/use-deep-compare",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "license": "MIT",
   "description": "React hooks, except using deep comparison on the inputs, not reference equality",
   "repository": {
